@@ -10,7 +10,7 @@ def checked(i) :
       button["bg"] = "yellow"
 
       if player == "X" :
-            player = "O"
+            player = "*"
             button["bg"] = "yellow"
       else :
             player = "X"
